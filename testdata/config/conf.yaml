@@ -1,0 +1,15 @@
+smartisan:
+  platformName:
+    Android
+  deviceName:
+    45c44733
+  platformVersion:
+    6.0.1
+  appPackage:
+    com.mf.mfhr
+  appActivity:
+    com.mf.mfhr.ui.activity.SplashActivity
+
+
+logpath:
+  E:\AutoTest-4\testreport\log\
